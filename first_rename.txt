@@ -1,0 +1,6 @@
+This is version 1 of my project
+I want it to goto commit 2.
+changed by Sidd Matsre master
+This is changed again
+nvhjvkj
+This is from master
